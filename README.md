@@ -165,10 +165,6 @@ For deployment on Streamlit Community Cloud, the local Ollama integration must b
 
 ## 👨‍💻 Author
 
-**Your Name**
+Nikita Chougule
 
 Developed as an AI-powered research and document assistant project using Python, Streamlit, vector search, and local LLM technology.
-
-## 📜 License
-
-This project is available for educational and portfolio purposes. Add an appropriate open-source license if required.
