@@ -137,6 +137,8 @@ ChromaDB stores document embeddings locally in:
 
 This folder is generated automatically when the application runs and is excluded from Git using `.gitignore`.
 
+## Live app: https://researchmate-ai-hlme7ve5myyyx39pb4ekoj.streamlit.app/
+
 ## ⚠️ Limitations
 
 - The application primarily supports text-based PDFs.
