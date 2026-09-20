@@ -1,0 +1,7 @@
+streamlit
+pypdf
+langchain-text-splitters
+sentence-transformers
+chromadb
+ollama
+numpy
