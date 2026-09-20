@@ -165,7 +165,6 @@ st.markdown(
         font-family: 'IBM Plex Mono', monospace;
         font-size: 0.66rem;
         color: var(--muted);
-        text-transform: lowercase;
     }
     .dev-tag .name {
         font-family: 'Fraunces', serif;
